@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Garcia</h1>
 <h3 align="center">Enthusiastic Software Engineer out of Oakland, California.</h3>
 
-- 👨‍💻 All of my projects are available at [#######](#######)
+- 👨‍💻 All of my projects are available at [1210pages](#######)
 
 - 📝 I regularly write articles on [#######](#######)
 
