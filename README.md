@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [1210pages](http://1210pages.netlify.app)
 
-- 📝 I regularly write articles on [#######](#######)
-
 - 💬 Ask me about **Js, Node and React**
 
 - 📫 How to reach me **Lujak1234@gmail.com**
