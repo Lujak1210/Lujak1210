@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/lujak1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lujak1210" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/lujak1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lujak1210" height="30" width="40" /></a>
-<a href="https://instagram.com/lujak1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lujak1210" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/lujak1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lujak1210" height="30" width="40" /></a>-->
 <a href="https://discord.gg/Lujak1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lujak1210" height="30" width="40" /></a>
 </p>
 
